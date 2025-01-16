@@ -31,7 +31,7 @@ Cal.ns.interviews("ui", {
     "theme": "light",
     "styles": {
         "branding": {
-            "brandColor": "#1D2565"
+            "brandColor": "#000000"
         }
     },
     "hideEventTypeDetails": false,
