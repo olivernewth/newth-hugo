@@ -31,7 +31,7 @@ Cal.ns.interviews("ui", {
     "theme": "light",
     "styles": {
         "branding": {
-            "brandColor": "#000000"
+            "brandColor": "#1D2565"
         }
     },
     "hideEventTypeDetails": false,
@@ -41,6 +41,10 @@ Cal.ns.interviews("ui", {
 
 <!-- Cal inline embed code ends -->
 
-<div style="width:100%;min-width:100%;min-height:100vh;overflow:scroll" id="my-cal-inline"></div>
+<div style="width:100%;min-width:100%;/* Remove the scrolling */
+overflow: visible;
+/* Automatically adjust height based on content */
+height: auto;
+" id="my-cal-inline"></div>
 
 {{< /rawhtml>}}
