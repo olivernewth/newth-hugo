@@ -51,12 +51,6 @@ While I'm open to discussing a wide range of subjects, my expertise and interest
 - **Career growth** in product and tech
 - **Community building** and tech for social impact
 
-## Newsletter
-
-Want to stay updated without committing to a conversation? Consider subscribing to my occasional newsletter where I share thoughts on AI trends, product insights, and career development.
-
-{{< newsletter-signup >}}
-
 Looking forward to connecting with you!
 
 — Oliver
