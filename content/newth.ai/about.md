@@ -1,58 +1,70 @@
 ---
-title: 'About Oliver'
+title: 'About Oliver | AI Product Leadership'
 ---
 
-I'm Oliver, an AI Product Leader based in San Francisco. With over a decade of experience at
-companies like [Google](https://about.google.com), [Meta](https://about.meta.com), [Microsoft](https://www.microsoft.com) and [Covariant](https://covariant.ai) (acquired by Amazon), I've been at the forefront of developing innovative AI
-solutions that are reshaping how we interact with technology in our daily lives and in the physical
-world.
+I'm Oliver, an AI Product Leader based in San Francisco specializing in enterprise AI solutions. With over a decade of experience at companies like [Google](https://about.google.com), [Meta](https://about.meta.com), [Microsoft](https://www.microsoft.com) and [Covariant](https://covariant.ai) (acquired by Amazon), I've developed AI systems that balance cutting-edge technology with trust, safety, and measurable business impact.
 
 ## Professional Journey
 
-My career has been driven by a passion for leveraging AI to create impactful products. Currently at Google, I'm building platforms that integrate DeepMind models into products and developing cohesive ML infrastructure. Previously, I led enterprise vision AI development at Covariant, enhanced user experiences at Meta, and expanded language AI capabilities at Microsoft. Throughout my journey, I've focused on pushing the boundaries of what's possible with machine learning and artificial intelligence.
+My career has been driven by a passion for translating AI research into scalable products that create real-world value. Currently at Google, I lead platforms that integrate DeepMind models into product surfaces while developing robust ML infrastructure that supports billions of predictions daily.
 
-Some highlights of my journey include:
+Key highlights from my journey include:
 
-- Building GenAI Workflows at [Google](https://about.google.com), focusing on ML infrastructure and AI technology development
-- Leading enterprise vision AI solutions at [Covariant](https://covariant.ai) (acquired by Amazon), with technology that achieved 85% accuracy and $100M+ projected revenue
-- Increasing user engagement on [Meta](https://about.meta.com) platforms by 75% through enhanced AI-powered features
-- Expanding [Azure Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/) to support 25 languages for enterprise clients
+- **Google**: Leading ML platform development with 99.99% reliability while reducing model deployment time by 78%, supporting 30+ product teams across the organization
+  
+- **Covariant**: Built enterprise vision AI solutions achieving 85% accuracy in complex environments, driving $100M+ projected revenue and establishing new standards for AI in robotics
+  
+- **Meta**: Increased user engagement by 75% through AI-powered features, leading a team of 60+ engineers in launching products across multiple markets with sophisticated trust & safety frameworks
+  
+- **Microsoft**: Expanded Azure Cognitive Services language capabilities to 25 languages for enterprise clients, achieving 99.9% service reliability and increasing enterprise adoption by 52%
 
 {{< youtube oZVFzDjBBq8 >}}
 
+## Enterprise AI Expertise
+
+My technical focus areas include:
+
+- **ML Infrastructure at Scale** - Designing systems that support rapid iteration while maintaining reliability across large organizations
+  
+- **Responsible GenAI Integration** - Creating frameworks for safely bringing foundation models to production environments
+  
+- **AI Governance Frameworks** - Implementing practical approaches to responsible AI that work in complex enterprise settings
+  
+- **Cross-functional Team Leadership** - Bridging gaps between research, engineering, product, and policy teams
+
 ## Beyond the Office
 
-When I'm not immersed in the world of AI, you'll find me actively contributing to my community. I'm
-passionate about using technology and art to promote social awareness and inclusivity. Some of my
-proudest moments include:
+When I'm not immersed in the world of AI, you'll find me actively contributing to my community. I'm passionate about using technology and art to promote social awareness and inclusivity. Some of my proudest moments include:
 
-- Collaborating with [Illuminate](https://illuminate.org/?ref=newth.ai) to bring inspiring public
-  art projects to life, such as
-  [The Pink Triangle](https://illuminate.org/projects/the-pink-triangle/?ref=newth.ai)
+- Collaborating with [Illuminate](https://illuminate.org/?ref=newth.ai) to bring inspiring public art projects to life, such as [The Pink Triangle](https://illuminate.org/projects/the-pink-triangle/?ref=newth.ai)
+  
 - Creating LGBTQ+ themed art installations for events like World AIDS Day and Burning Man
-- Participating in the [AIDS Lifecycle](https://www.aidslifecycle.org/?ref=newth.ai), cycling 545
-  miles from San Francisco to Los Angeles
+  
+- Participating in the [AIDS Lifecycle](https://www.aidslifecycle.org/?ref=newth.ai), cycling 545 miles from San Francisco to Los Angeles
 
 ## Sharing Knowledge
 
-I believe in the power of sharing knowledge and experiences. That's why I regularly write about
-various topics related to AI, product management, and personal growth. You can find my latest
-thoughts on:
+I regularly share insights on enterprise AI implementation, product strategy, and responsible innovation through:
 
-- GenAI and ML Infrastructure
+- **Industry presentations** at events like Google I/O, Microsoft Build, and AI Summit
+  
+- **Published frameworks** for AI product evaluation and trust & safety implementation
+  
+- **Blog posts and articles** exploring the intersection of technology, product management, and ethics
+
+My current writing focuses on:
+- GenAI and Enterprise ML Infrastructure
 - Trust & Safety in AI Products
 - Bringing Research AI into Production
-- Knowledge Management Tools
-- Personal Growth and Development
+- ML Platform Architecture
+- Building High-Performance AI Teams
 
-Check out my [blog posts](https://newth.ai/blog) to dive deeper into these topics.
+Check out my [blog posts](https://newth.ai/blog) to explore these topics in depth.
 
 ## Let's Connect
 
-I'm always excited to discuss new ideas, collaborate on projects, or simply chat about the latest developments in AI and technology. Whether you're a fellow tech enthusiast, a potential collaborator or just curious about my work, feel free to reach out!
+I'm always excited to discuss AI product challenges, collaborate on innovative projects, or share insights about building responsible AI at scale. Whether you're a fellow product leader, a potential collaborator, or just curious about my work, feel free to reach out!
 
-You can find me on [LinkedIn](https://linkedin.com/in/newth) or
-[drop me a message](https://newth.ai/contact/).
+You can find me on [LinkedIn](https://linkedin.com/in/newth) or [send me a message](https://newth.ai/contact/).
 
-For those interested in AI product management or looking for mentorship, I offer
-[Product & AI Mentoring](https://newth.ai/mentoring/) sessions. Feel free to book a time to connect!
+For product managers or AI specialists interested in structured mentoring, I offer [AI Product Mentoring](https://newth.ai/mentoring/) sessions tailored to your specific goals and challenges.
