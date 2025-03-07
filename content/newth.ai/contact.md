@@ -4,11 +4,11 @@ layout: single
 description: "Reach out to Oliver Newth for discussions about AI product management, tech innovation, or potential collaborations."
 ---
 
-# Get in Touch
+## Get in Touch
 
 I'm always excited to chat with fellow tech enthusiasts, product managers, AI specialists, and curious minds. Whether you have a specific question, want to explore collaboration opportunities, or simply share ideas, I'd love to hear from you.
 
-## When to Reach Out
+### When to Reach Out
 
 - You're navigating challenges in **AI product development**
 - You're interested in **mentoring or career guidance** in tech
@@ -21,10 +21,9 @@ I'm always excited to chat with fellow tech enthusiasts, product managers, AI sp
 {{< columns >}}
 
 ### Quick Contact
+
 - **Email:** oliver@newth.ai
 - **LinkedIn:** [Oliver Grosvenor-Newth](https://linkedin.com/in/newth)
-
-<--->
 
 ### Schedule a Chat
 For more in-depth conversations, consider booking a time directly on my calendar.
