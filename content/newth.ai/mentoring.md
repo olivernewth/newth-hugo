@@ -5,7 +5,7 @@ wideLayout: true
 description: "Personalized mentoring for AI specialists and product managers from an experienced leader at Google, Meta, Microsoft, and Covariant."
 ---
 
-# Accelerate Your AI & Product Career
+## Accelerate Your AI & Product Career
 
 With over a decade of leadership experience at **Google**, **Meta**, **Microsoft** and **Covariant** (acquired by Amazon), I help ambitious professionals navigate the complex landscape of AI and product management.
 
